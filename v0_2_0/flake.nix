@@ -16,7 +16,7 @@
   inputs."nimscripter".owner = "nim-nix-pkgs";
   inputs."nimscripter".ref   = "master";
   inputs."nimscripter".repo  = "nimscripter";
-  inputs."nimscripter".dir   = "";
+  inputs."nimscripter".dir   = "master";
   inputs."nimscripter".type  = "github";
   inputs."nimscripter".inputs.nixpkgs.follows = "nixpkgs";
   inputs."nimscripter".inputs.flakeNimbleLib.follows = "flakeNimbleLib";
@@ -41,10 +41,13 @@
   let 
     lib  = flakeNimbleLib.lib;
     args = ["self" "nixpkgs" "flakeNimbleLib" "src-ratel-v0_2_0"];
-  in lib.mkRefOutput {
+    over = if builtins.pathExists ./override.nix 
+           then { override = import ./override.nix; }
+           else { };
+  in lib.mkRefOutput (over // {
     inherit self nixpkgs ;
     src  = deps."src-ratel-v0_2_0";
     deps = builtins.removeAttrs deps args;
     meta = builtins.fromJSON (builtins.readFile ./meta.json);
-  };
+  } );
 }
