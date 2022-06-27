@@ -260,7 +260,7 @@
         "flakeNimbleLib": "flakeNimbleLib",
         "nimscripter": "nimscripter",
         "nixpkgs": "nixpkgs",
-        "src-ratel-master": "src-ratel-master"
+        "src-ratel-v0_2_1": "src-ratel-v0_2_1"
       }
     },
     "src-assume-0_4_0": {
@@ -365,19 +365,19 @@
         "type": "github"
       }
     },
-    "src-ratel-master": {
+    "src-ratel-v0_2_1": {
       "flake": false,
       "locked": {
-        "lastModified": 1651837725,
-        "narHash": "sha256-M7mT/gubnumbhv12ASsosVvBEQE2rxZbUb84CMZGmNk=",
+        "lastModified": 1651820292,
+        "narHash": "sha256-OQU5OI7Gc+81Sy4dxja0XykxQIcH6iVR/xfVYrshyxw=",
         "owner": "PMunch",
         "repo": "ratel",
-        "rev": "8bd4de8c7d38e5aef32116bb6908148aa8754bb2",
+        "rev": "2d2cc1a7b23c1c92b31bfb2362f506b698572d9e",
         "type": "github"
       },
       "original": {
         "owner": "PMunch",
-        "ref": "refs/heads/master",
+        "ref": "refs/tags/v0.2.1",
         "repo": "ratel",
         "type": "github"
       }
