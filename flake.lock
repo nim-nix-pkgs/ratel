@@ -14,11 +14,11 @@
       },
       "locked": {
         "dir": "v1_5_31",
-        "lastModified": 1667334418,
-        "narHash": "sha256-yCdhxVVENSgXcvNiJ2P4kkHUmddGxClXuFEKX8W+jDI=",
+        "lastModified": 1668748698,
+        "narHash": "sha256-JsRbqkiOA39K2qVoy71V4MVNjUz7oPETq7yp/IhVmFw=",
         "owner": "nim-nix-pkgs",
         "repo": "cligen",
-        "rev": "1943e0183462db576a6c0fe6239a412716703fe5",
+        "rev": "2f575bb8fdbc6dc3695c63f5cdd0a770632507dd",
         "type": "github"
       },
       "original": {
@@ -270,19 +270,19 @@
           "nimscripter",
           "nixpkgs"
         ],
-        "src-assume-0_5_0": "src-assume-0_5_0"
+        "src-assume-0_6_0": "src-assume-0_6_0"
       },
       "locked": {
-        "dir": "0_5_0",
-        "lastModified": 1667329665,
-        "narHash": "sha256-vD1OIdXjoKZbBehFM8QIH7IWAB0wD9V3LiQvbj1ZXpA=",
+        "dir": "0_6_0",
+        "lastModified": 1668742036,
+        "narHash": "sha256-GPSKYs1gTeJ3YdhoVXsGsRwoO403lDy5TxGnrpF533U=",
         "owner": "nim-nix-pkgs",
         "repo": "github-disruptek-assume",
-        "rev": "b74920ed417dd5ab1687b93df9feb13f9cb31cd2",
+        "rev": "e0ca28836fa7848c983cf17ff66aea12633cab94",
         "type": "github"
       },
       "original": {
-        "dir": "0_5_0",
+        "dir": "0_6_0",
         "owner": "nim-nix-pkgs",
         "ref": "master",
         "repo": "github-disruptek-assume",
@@ -342,11 +342,11 @@
       },
       "locked": {
         "dir": "3_7_2",
-        "lastModified": 1667310834,
-        "narHash": "sha256-AYUmKb9BxPEyOnoZ94fKnI8CVVcSqreGx5AbjDD142c=",
+        "lastModified": 1668742037,
+        "narHash": "sha256-OrDqJ6S80htHSMZA+UQ3kEkBUZOu+zpS1PWhiVAdV8I=",
         "owner": "nim-nix-pkgs",
         "repo": "github-disruptek-balls",
-        "rev": "58c2efba10fb04dafa8ee6ce040fe713eb7c989a",
+        "rev": "dcf62c11c8afc0d47950593db5c2a71f2cb991e0",
         "type": "github"
       },
       "original": {
@@ -409,19 +409,19 @@
           "github-disruptek-balls",
           "nixpkgs"
         ],
-        "src-grok-0_6_2": "src-grok-0_6_2"
+        "src-grok-0_6_3": "src-grok-0_6_3"
       },
       "locked": {
-        "dir": "0_6_2",
-        "lastModified": 1667310835,
-        "narHash": "sha256-fd3743VjpF073ixgDVZlC3RIXT63/xYDyuk0X0QlYRg=",
+        "dir": "0_6_3",
+        "lastModified": 1668742038,
+        "narHash": "sha256-ElmlMPovfWh2kbGrONF2povKNzfrZImK+9dl8yc9rPM=",
         "owner": "nim-nix-pkgs",
         "repo": "github-disruptek-grok",
-        "rev": "404bd0e24b630565aa888ef7a5fc4ad4356f6377",
+        "rev": "9bb954b97e71d8646128b2e67bb7c997ab17e091",
         "type": "github"
       },
       "original": {
-        "dir": "0_6_2",
+        "dir": "0_6_3",
         "owner": "nim-nix-pkgs",
         "ref": "master",
         "repo": "github-disruptek-grok",
@@ -550,11 +550,11 @@
       },
       "locked": {
         "dir": "master",
-        "lastModified": 1667334668,
-        "narHash": "sha256-dMncBye+eFxr8H2O7bWmtQ3T79cOwetVpNdyZXZANp8=",
+        "lastModified": 1668748935,
+        "narHash": "sha256-y0PrrskpSm3MubXJGQost6a5yrXkffcwXiaFPLWfD0Y=",
         "owner": "nim-nix-pkgs",
         "repo": "nimscripter",
-        "rev": "3ff610bdc7abdbd48b2099df13a85dd0bed03dac",
+        "rev": "70a6272f703c7b6af253e697795b3c2c4454a229",
         "type": "github"
       },
       "original": {
@@ -742,11 +742,11 @@
       },
       "locked": {
         "dir": "master",
-        "lastModified": 1667335633,
-        "narHash": "sha256-7XzG2BKqTMhcLs96xsAhZrcbwCum/n+uxhXKremewUM=",
+        "lastModified": 1668750351,
+        "narHash": "sha256-9sEyMT3OS4kfYT3tlPZJrcdYOhftl4Zn+nCxka3mVbA=",
         "owner": "nim-nix-pkgs",
         "repo": "ratel",
-        "rev": "28e76c2667eb015f512e7224eab0cf45bc4b78d5",
+        "rev": "3e51437a844a0568cff2e9d449a37997d3ace031",
         "type": "github"
       },
       "original": {
@@ -771,11 +771,11 @@
       },
       "locked": {
         "dir": "v0_2_0",
-        "lastModified": 1667335633,
-        "narHash": "sha256-7XzG2BKqTMhcLs96xsAhZrcbwCum/n+uxhXKremewUM=",
+        "lastModified": 1668750351,
+        "narHash": "sha256-9sEyMT3OS4kfYT3tlPZJrcdYOhftl4Zn+nCxka3mVbA=",
         "owner": "nim-nix-pkgs",
         "repo": "ratel",
-        "rev": "28e76c2667eb015f512e7224eab0cf45bc4b78d5",
+        "rev": "3e51437a844a0568cff2e9d449a37997d3ace031",
         "type": "github"
       },
       "original": {
@@ -800,11 +800,11 @@
       },
       "locked": {
         "dir": "v0_2_1",
-        "lastModified": 1667335633,
-        "narHash": "sha256-7XzG2BKqTMhcLs96xsAhZrcbwCum/n+uxhXKremewUM=",
+        "lastModified": 1668750351,
+        "narHash": "sha256-9sEyMT3OS4kfYT3tlPZJrcdYOhftl4Zn+nCxka3mVbA=",
         "owner": "nim-nix-pkgs",
         "repo": "ratel",
-        "rev": "28e76c2667eb015f512e7224eab0cf45bc4b78d5",
+        "rev": "3e51437a844a0568cff2e9d449a37997d3ace031",
         "type": "github"
       },
       "original": {
@@ -841,19 +841,19 @@
         "type": "github"
       }
     },
-    "src-assume-0_5_0": {
+    "src-assume-0_6_0": {
       "flake": false,
       "locked": {
-        "lastModified": 1666188705,
-        "narHash": "sha256-C9unKXQtKCZWdmwlgmUP4GT9gNBgRRTd49p1b1zhZP4=",
+        "lastModified": 1668015818,
+        "narHash": "sha256-cHqAjNISbrUh8fH0OA8eVls3Y3yP8kU/3K0jjbeZZTA=",
         "owner": "disruptek",
         "repo": "assume",
-        "rev": "02745d6fc033956bd6a2058426be23a82b56470c",
+        "rev": "bf5a149a3571b0e2596f9f02ac11631f5173e40c",
         "type": "github"
       },
       "original": {
         "owner": "disruptek",
-        "ref": "refs/tags/0.5.0",
+        "ref": "refs/tags/0.6.0",
         "repo": "assume",
         "type": "github"
       }
@@ -960,19 +960,19 @@
         "type": "github"
       }
     },
-    "src-grok-0_6_2": {
+    "src-grok-0_6_3": {
       "flake": false,
       "locked": {
-        "lastModified": 1667236813,
-        "narHash": "sha256-dl4zvJ8rNU7qYMWLxmE/4AHU5l0Jj0yk16OJp3mEnE4=",
+        "lastModified": 1667946697,
+        "narHash": "sha256-Xcww3kG0Qc+FJBTUX+gmZzf9aJhsZTrcbgLy2aDX9YI=",
         "owner": "disruptek",
         "repo": "grok",
-        "rev": "eafecca79f75eeb956c66ca05a82f1acc995f6f3",
+        "rev": "20ded552bba7b835b00571c9aa33f4f82067d4f0",
         "type": "github"
       },
       "original": {
         "owner": "disruptek",
-        "ref": "refs/tags/0.6.2",
+        "ref": "refs/tags/0.6.3",
         "repo": "grok",
         "type": "github"
       }
